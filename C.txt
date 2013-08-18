@@ -1,15 +1,5 @@
 111
-<<<<<<< HEAD
-<<<<<<< HEAD
-test
-=======
-=======
->>>>>>> 0a1bf9c8292da20984cecccc0f6bdda599f0f811
 222
 333
 444
 555
-<<<<<<< HEAD
->>>>>>> 0a1bf9c8292da20984cecccc0f6bdda599f0f811
-=======
->>>>>>> 0a1bf9c8292da20984cecccc0f6bdda599f0f811
